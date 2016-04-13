@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  ZBBQRCodeDemo
+//
+//  Created by zhangbinbin on 16/4/13.
+//  Copyright © 2016年 zhangbinbin. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#ifdef __OBJC__
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+#endif
+
+
+
+#endif /* PrefixHeader_pch */
